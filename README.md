@@ -60,16 +60,10 @@
 <br />
 ---
                                    
-## My Github Status 🦸
-
-![](https://github-readme-stats-rash123.vercel.app/api?username=rash123&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
-                                   
-<br />
                                    
 ## 🔗 Connect With Me:
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.codewithharsh.me/)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kumarharsh22/)
+[![linked-in](https://www.linkedin.com/in/rashmi-verma410/)
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/cenacr007_harsh)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/cenacrharsh)
 [![twitter](https://img.shields.io/badge/twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cenacr007_harsh)
