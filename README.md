@@ -62,7 +62,7 @@
                                    
 ## My Github Status 🦸
 
-![](https://github-readme-stats-cenacrharsh.vercel.app/api?username=cenacrharsh&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+![](https://github-readme-stats-rash123.vercel.app/api?username=rash123&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
                                    
 <br />
                                    
