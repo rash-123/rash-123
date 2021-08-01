@@ -1,8 +1,8 @@
 <p align ="center" " margin-bottom="10px"><img  src="https://cdn.dribbble.com/users/68746/screenshots/1443011/homework_dribbble.gif" width ="50%"></p>
-<p margin-bottom="10px"><h1 align="center" > Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Kumar Harsh  </h1></p>
+<p margin-bottom="10px"><h1 align="center" > Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Rashmi Verma  </h1></p>
 <p align="center" margin-top="10px" >
 
-## I'm a Student, Programmer, Developer, and Blogger!!
+## I'm a Student, Programmer, Developer!!
 
 - 🔭 I am currently in 2nd yr of my College.
 - 🌱 I’m currently learning Full Stack Web Development & Data Structures and Algorithms.
@@ -59,18 +59,7 @@
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 <br />
 ---
-## My Recent Blog posts ✍️
-
-<!-- BLOG-POST-LIST:START -->
-- [Introduction to React.js ⚛ and the required JavaScript!](https://dev.to/cenacr007_harsh/introduction-to-react-js-and-the-required-javascript-5coh)
-- [Complete Introduction to Redux 🚀](https://dev.to/cenacr007_harsh/complete-introduction-to-redux-2281)
-- [Complete Introduction to React-Redux ⚛](https://dev.to/cenacr007_harsh/complete-introduction-to-react-redux-39kl)
-- [Best IDE’s and Text Editors!](https://dev.to/cenacr007_harsh/best-ide-s-and-text-editors-31i0)
-- [Basic Data Structures in JavaScript : Arrays and Objects !](https://dev.to/cenacr007_harsh/basic-data-structures-in-javascript-arrays-and-objects-3mln)
-                                                                                                                              
-➡[more blog posts...](https://dev.to/cenacr007_harsh)
-<!-- BLOG-POST-LIST:END -->
-
+                                   
 ## My Github Status 🦸
 
 ![](https://github-readme-stats-cenacrharsh.vercel.app/api?username=cenacrharsh&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
