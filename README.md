@@ -4,7 +4,7 @@
 
 ## I'm a Student, Programmer, Developer!!
 
-- 🔭 I am currently in 2nd yr of my College.
+- 🔭 I am currently in 3rd yr of my College.
 - 🌱 I’m currently learning Full Stack Web Development & Data Structures and Algorithms.
 - 👯 I’m looking to collaborate with other Open Source Contributors.
 - 🥅 2021 Goals: Start contributing to Open Source projects.
