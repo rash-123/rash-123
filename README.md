@@ -4,10 +4,9 @@
 
 ## I'm a Student, Programmer, Developer!!
 
-- 🔭 I am currently in 3rd yr of my College.
+- 🔭 I have completed my BTech.
 - 🌱 I’m currently learning Full Stack Web Development & Data Structures and Algorithms.
 - 👯 I’m looking to collaborate with other Open Source Contributors.
-- 🥅 2021 Goals: Start contributing to Open Source projects.
 - ⚡ Fun fact: I love to read novels, play games and watch anime.                                   
 
 <br />
